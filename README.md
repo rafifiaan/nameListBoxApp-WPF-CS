@@ -7,7 +7,7 @@ Created with `Visual Studio 2022` & Windows Presentation Fundation / WPF (#C) Te
 
 - Project Demonstration (In *Bahasa*) :
 
-Visit on : ***OnGoing***
+Visit on : **[Rafi's Blogspot](https://rafifiaan-if.blogspot.com/2023/09/tugas-3-windows-presentation-foundation.html)** 
 
 </br>
 
